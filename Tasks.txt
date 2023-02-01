@@ -1,10 +1,13 @@
+welcome.png replace to SVG
+slides/icons replace all to SVG
+
 Update slides/l10n
 
 slides/icons
-New icons for firefox.png and rhythmbox.png (also symlink)
+New icons for rhythmbox.png (also symlink)
 
 slides/screenshots
-New screenshot for browse.png
+New screenshot for browse.png (and icon for Firedoge, but SVG)
 New screenshot for gs.png, also add next slide for UniStore
 New screenshot for office.png, also add next slide for OnlyOffice/others/Plasmmer Office
 New screenshot for music.png
