@@ -1,3 +1,10 @@
+slides/icons
+New icons for rhythmbox.png (also symlink)
+
+slides/screenshots
+New screenshot for photos.png, wider
+New screenshot for music.png
+
 welcome.png replace to SVG
 slides/icons replace all to SVG
 
@@ -5,14 +12,9 @@ add html5apps.html slide telling about HTML5Apps Platform, floapps (.apps and .g
 
 Update slides/l10n
 
-slides/icons
-New icons for rhythmbox.png (also symlink)
-
 slides/screenshots
 New screenshot for browse.png
-New screenshot for photos.png, wider
-New screenshot for gs.png, also add next slide for UniStore
+New screenshot for store.png, also add next slide for UniStore
 New screenshot for office.png, also add next slide for OnlyOffice/others/Plasmmer Office
-New screenshot for music.png
 
 Update slides/l10n
